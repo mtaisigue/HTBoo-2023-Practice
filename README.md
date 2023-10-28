@@ -5,7 +5,7 @@
 
 Category | Name | Objective | Difficulty [⭐⭐⭐⭐⭐]|
 |--------|:----:|:---------:|-----------:|
-|Web     |CandyVault | MongoDB noQSL Authentication bypass | ⭐ |
+|Web     |CandyVault | MongoDB noQSL Authentication bypass | ⭐
 
 
 
