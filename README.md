@@ -3,8 +3,11 @@
 
 # Challenges
 
-Category | Name | Objective |
-|--------|:----:|----------:|
+Category | Name | Objective | Difficulty |
+                              [⭐⭐⭐⭐⭐]
+|--------|:----:|:---------:|-----------:|
 |Web     |CandyVault | MongoDB noQSL Authentication bypass |
+
+
 
 
