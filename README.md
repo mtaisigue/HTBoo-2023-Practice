@@ -3,8 +3,7 @@
 
 # Challenges
 
-| Category | Name | Objective | Difficulty
-| ---------------------------- [⭐⭐⭐⭐⭐] |
+| Category | Name | Objective | Difficulty [⭐⭐⭐⭐⭐] |
 | -------- | ---- |-------- | :----------- |
 | Web     | CandyVault | MongoDB noQSL Authentication bypass | ⭐
 | Web     | Spellbound Servants | cPickle deserialisation | ⭐
